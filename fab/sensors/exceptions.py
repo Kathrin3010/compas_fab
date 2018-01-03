@@ -4,3 +4,4 @@ class ProtocolError(IOError):
 
 class SensorTimeoutError(StandardError):
     pass
+    
